@@ -1,0 +1,74 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101A35"/>
+      <stop offset="1" stop-color="#0A1328"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+
+  <g opacity="0.18">
+    <path d="M0 70H1600" stroke="#1F2F52"/>
+    <path d="M0 140H1600" stroke="#1F2F52"/>
+    <path d="M0 210H1600" stroke="#1F2F52"/>
+    <path d="M0 280H1600" stroke="#1F2F52"/>
+    <path d="M0 350H1600" stroke="#1F2F52"/>
+    <path d="M120 0V420" stroke="#1F2F52"/>
+    <path d="M240 0V420" stroke="#1F2F52"/>
+    <path d="M360 0V420" stroke="#1F2F52"/>
+    <path d="M480 0V420" stroke="#1F2F52"/>
+    <path d="M600 0V420" stroke="#1F2F52"/>
+    <path d="M720 0V420" stroke="#1F2F52"/>
+    <path d="M840 0V420" stroke="#1F2F52"/>
+    <path d="M960 0V420" stroke="#1F2F52"/>
+    <path d="M1080 0V420" stroke="#1F2F52"/>
+    <path d="M1200 0V420" stroke="#1F2F52"/>
+    <path d="M1320 0V420" stroke="#1F2F52"/>
+    <path d="M1440 0V420" stroke="#1F2F52"/>
+  </g>
+
+  <rect x="58" y="52" width="1484" height="316" rx="18" fill="url(#panel)" stroke="#2A3F68"/>
+
+  <g>
+    <rect x="96" y="108" width="250" height="170" rx="12" fill="#0B1630" stroke="url(#accent)" stroke-width="2"/>
+    <rect x="120" y="132" width="200" height="16" rx="8" fill="#223C68"/>
+    <rect x="120" y="170" width="132" height="12" rx="6" fill="#2DD4BF"/>
+    <rect x="120" y="194" width="170" height="12" rx="6" fill="#60A5FA"/>
+    <rect x="120" y="218" width="120" height="12" rx="6" fill="#A78BFA"/>
+    <rect x="120" y="242" width="152" height="12" rx="6" fill="#38BDF8"/>
+  </g>
+
+  <g>
+    <text x="420" y="168" fill="#E2E8F0" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="62" font-weight="700" letter-spacing="7">EXECRA</text>
+    <text x="420" y="238" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="62" font-weight="700" letter-spacing="7">DIOS</text>
+    <path d="M420 260H930" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+    <text x="420" y="305" fill="#A9B9D6" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24" letter-spacing="3">SCHEMA EXPLORER // TABLE BROWSER // DATA VIEW</text>
+  </g>
+
+  <g>
+    <rect x="1094" y="108" width="368" height="170" rx="12" fill="#0B1630" stroke="#2E4674"/>
+    <path d="M1126 136H1436" stroke="#2E4674"/>
+    <circle cx="1148" cy="136" r="5" fill="#FF5F57"/>
+    <circle cx="1168" cy="136" r="5" fill="#FEBC2E"/>
+    <circle cx="1188" cy="136" r="5" fill="#28C840"/>
+
+    <text x="1136" y="186" fill="#CADEFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="3">TABLES</text>
+    <text x="1136" y="222" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="34" font-weight="700">12</text>
+    <text x="1206" y="222" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">detected</text>
+
+    <text x="1136" y="260" fill="#CADEFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="3">COLUMNS</text>
+    <text x="1136" y="296" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="34" font-weight="700">64</text>
+    <text x="1206" y="296" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">indexed</text>
+  </g>
+</svg>
