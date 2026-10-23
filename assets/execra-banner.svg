@@ -70,12 +70,12 @@
     <circle cx="1280" cy="138" r="5" fill="#FEBC2E"/>
     <circle cx="1300" cy="138" r="5" fill="#28C840"/>
 
-    <text x="1240" y="188" fill="#DCEBFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">TABLES</text>
-    <text x="1240" y="221" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="700">12</text>
-    <text x="1304" y="221" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">detected</text>
+    <text x="1240" y="170" fill="#DCEBFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">TABLES</text>
+    <text x="1240" y="200" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="700">12</text>
+    <text x="1304" y="200" fill="#8DE3FF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">detected</text>
 
-    <text x="1240" y="256" fill="#DCEBFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">COLUMNS</text>
-    <text x="1240" y="289" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="700">64</text>
-    <text x="1304" y="289" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">indexed</text>
+    <text x="1240" y="232" fill="#DCEBFF" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="3">COLUMNS</text>
+    <text x="1240" y="262" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="30" font-weight="700">64</text>
+    <text x="1304" y="262" fill="#A78BFA" font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">indexed</text>
   </g>
 </svg>
